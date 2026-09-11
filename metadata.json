@@ -3,14 +3,14 @@
     "username": "admin2594",
     "password": "123456",
     "date": "Vĩnh viễn",
-    "role": "1,2,3,4,5,6,7,8"
+    "role": "1,2,3,4,5,6,7,8",
     "active": true
   },
   {
     "username": "khach1",
     "password": "123456",
     "date": "30/09/2026",
-    "role": "2,3"
+    "role": "2,3",
     "active": true
   }
 ]
